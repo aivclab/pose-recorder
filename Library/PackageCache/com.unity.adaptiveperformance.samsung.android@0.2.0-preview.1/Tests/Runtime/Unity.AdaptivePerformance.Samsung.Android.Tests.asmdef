@@ -1,0 +1,11 @@
+{
+    "name": "Unity.AdaptivePerformance.Samsung.Android.Tests",
+    "references": [
+        "Unity.AdaptivePerformance.Samsung.Android"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Unity.AdaptivePerformance.Tests",
+    "references": [
+        "Unity.AdaptivePerformance"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

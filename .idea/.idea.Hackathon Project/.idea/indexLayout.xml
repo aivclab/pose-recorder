@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.adaptiveperformance.samsung.android@0.2.0-preview.1</Path>
+      <Path>Library/PackageCache/com.unity.adaptiveperformance@0.2.0-preview.1</Path>
+      <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
+      <Path>Library/PackageCache/com.unity.ext.nunit@1.0.0</Path>
+      <Path>Library/PackageCache/com.unity.ide.rider@1.0.8</Path>
+      <Path>Library/PackageCache/com.unity.ide.vscode@1.0.7</Path>
+      <Path>Library/PackageCache/com.unity.subsystemregistration@1.0.5</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.0.18</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@2.0.1</Path>
+      <Path>Library/PackageCache/com.unity.xr.arcore@2.0.2</Path>
+      <Path>Library/PackageCache/com.unity.xr.arfoundation@2.2.0-preview.3</Path>
+      <Path>Library/PackageCache/com.unity.xr.arkit@2.0.1</Path>
+      <Path>Library/PackageCache/com.unity.xr.arsubsystems@2.2.0-preview.3</Path>
+      <Path>Library/PackageCache/com.unity.xr.legacyinputhelpers@2.0.6</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+      <Path>packages</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>.vscode</Path>
+      <Path>Build</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Temp</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>

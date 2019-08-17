@@ -1,0 +1,12 @@
+{
+    "name": "Unity.AdaptivePerformance.Editor.Tests",
+    "references": [
+    	"Unity.AdaptivePerformance.Editor",
+        "Unity.AdaptivePerformance"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": []
+}
